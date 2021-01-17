@@ -2,14 +2,14 @@
   "basics": {
     "name": "Jacquelyn Tran",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://jacquelyntrn.github.io/images/jackie.jpg",
+    "email": "jtvtran@hawaii.edu",
+    "phone": "808-256-8773",
+    "website": "https://jacquelyntrn.github.io",
+    "summary": "I am studying for a B.S. in Accounting and MIS at University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,24 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "jacquelyntrn",
+        "url": "http://github.com/jacquelyntrn"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "music",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "art and fashion",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "spending time with loved ones",
       "keywords": [
       ]
     }
