@@ -1,51 +1,54 @@
 {
-  "basics": {
-    "name": "Jacquelyn Tran",
-    "label": "Student",
-    "picture": "https://jacquelyntrn.github.io/images/jackie.jpg",
-    "email": "jtvtran@hawaii.edu",
-    "phone": "808-256-8773",
-    "website": "https://jacquelyntrn.github.io",
-    "summary": "I am studying for a B.S. in Accounting and MIS at University of Hawaii. I expect to graduate in Fall, 2022.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Jacquelyn Tran",
+      "label":"Student",
+      "picture":"https://jacquelyntrn.github.io/images/jackie.jpg",
+      "email":"jtvtran@hawaii.edu",
+      "phone":"808-256-8773",
+      "website":"https://jacquelyntrn.github.io",
+      "summary":"I am studying for a B.S. in Accounting and MIS at University of Hawaii. I expect to graduate in Fall, 2022.",
+      "location":{
+         "address":"",
+         "postalCode":"",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"jacquelyntrn",
+            "url":"http://github.com/jacquelyntrn"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "jacquelyntrn",
-        "url": "http://github.com/jacquelyntrn"
+         "name":"music",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"art and fashion",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"spending time with loved ones",
+         "keywords":[
+            
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "music",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "art and fashion",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "spending time with loved ones",
-      "keywords": [
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution":"University of Hawaii, Honolulu, HI",
-      "area":"Accounting, Management Information Systems (expected Fall, 2022)",
-       "studyType":"B.B.A",
-       "startDate":"2019",
-       "endDate":"Present",
-    }
-  ]
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Accounting, Management Information Systems (expected Fall, 2022)",
+         "studyType":"B.B.A",
+         "startDate":"2019",
+         "endDate":"Present"
+      }
+   ]
 }
