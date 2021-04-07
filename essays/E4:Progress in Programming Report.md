@@ -11,7 +11,7 @@ labels:
 <p> I have a greater understanding of functions and if/ else statements. I feel like these are advanced skills that I have a good understanding of with now. Learning how to use loops and a seperate data javascript were really helpful for making codes more clean and understandable. During coding, I also learned the importance of noting everything that I am doing in my code. It feels like I can show that I understand, but I can also see more clearly how my code works with the addition of more and more layers and variabels. I really improved on how to use class= or id= to better style in my css or on my website.</p>
 
 <b>I need to work on the following to improve my programming skills:</b>
-<p> I need to learn the process of redirecting pages or inputting data. I also want to understand how the browser reads data from the client or the server bettter. There are times where I understand that there is something I need to do, but I just don't know where to start. That was how I was when I was using the template for my website. I want to better understand the reasoning for having innerHTML and the seperation for javascript or html.</p>
+<p> I need to learn the process of redirecting pages or inputting data. I also want to understand how the browser reads data from the client or the server bettter. There are times where I understand that there is something I need to do, but I just don't know where to start. That was how I was when I was using the template for my website. I want to better understand the reasoning for innerHTML and document.get.</p>
 
 
 <b>I can do the WODs without looking at the screencast solutions first.</b>
