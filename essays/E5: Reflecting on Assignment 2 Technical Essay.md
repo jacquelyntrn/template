@@ -7,7 +7,7 @@ labels:
   - Blog 5
 ---
 
-<b>Assignment 2 focuses on creaitng a user system for our website. It requires those who are on the website to register to log and all that is processed through the server. For further details click <a href=https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html>here</a>.</b> <br>
+<p><b>Assignment 2 focuses on creaitng a user system for our website. It requires those who are on the website to register to log and all that is processed through the server. For further details click <a href=https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html>here</a>.</b></p> <br>
 <b>What did you learn from this assignment?</b>
 <p>I learned about server side processing and how to use forms. Forms were something important I feel that I will remember. Keeping track of the action on the forms (the order page, the login, and the register) helped teach me how to follow the path. Another important part of that was the GET/POST, which I understood better from this assignment.I learned about how data is kept in the query string and now I learned how data is kept in the json. I learned how the server works with the webpage and client. I learned the username/ passwords is stored on the server while the orders were stored on the client's. </p>
 <b>How did you get help when you needed it? What did you need help with?</b>
