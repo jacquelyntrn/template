@@ -36,5 +36,5 @@ I learned that coding is a really large project that needs to be approached as a
 <b>If you could go back in time and do things differently, what would you change?</b>
 I would try to better understand the server because at many points, I didn't understand what the server was doing.
 
-<b>Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging<b>
+<b>Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging</b>
 I had prepared for the assignment starting early which took me about 5 hours. Then, when I got to the actual coding, it was late, and I was struggling a lot more than I anticipated and spent about 20 hours over two days trying to work it out. 
